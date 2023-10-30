@@ -4,7 +4,9 @@
 
 https://drive.google.com/drive/folders/16ONGUzx2HwnKVLGTnfybajCVGyg0GFzJ?usp=sharing 
 
-## Resources
+## Resources:
+
+https://huggingface.co/monsoon-nlp/hindi-bert/tree/main
 
 https://huggingface.co/datasets/cfilt/HiNER-original
 
