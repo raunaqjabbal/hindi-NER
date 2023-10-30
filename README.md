@@ -1,6 +1,6 @@
 # hindi-NER
 
-## Models and resoults: 
+## Models and results: 
 
 https://drive.google.com/drive/folders/16ONGUzx2HwnKVLGTnfybajCVGyg0GFzJ?usp=sharing 
 
