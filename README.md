@@ -1,7 +1,11 @@
 # hindi-NER
 
-Models: https://drive.google.com/drive/folders/16ONGUzx2HwnKVLGTnfybajCVGyg0GFzJ?usp=sharing 
- 
+## Models and resoults: 
+
+https://drive.google.com/drive/folders/16ONGUzx2HwnKVLGTnfybajCVGyg0GFzJ?usp=sharing 
+
+## Resources
+
 https://huggingface.co/datasets/cfilt/HiNER-original
 
 https://huggingface.co/datasets/cfilt/HiNER-collapsed
